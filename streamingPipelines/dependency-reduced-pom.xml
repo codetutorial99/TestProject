@@ -22,9 +22,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.krishna.learning.streamingPipelines.StreamingPipelines</mainClass>
-              <mainClass>com.krishna.learning.streamingPipelines.WatchingFiles</mainClass>
-              <mainClass>com.krishna.learning.streamingPipelines.Subscriber</mainClass>
+              <mainClass>com.krishna.learning.streamingPipelines.PubsubToPostgreSQL</mainClass>
             </manifest>
           </archive>
         </configuration>
